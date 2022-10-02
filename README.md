@@ -1,2 +1,2 @@
 # Calculator
-Calculator written in pyton 
+Calculator written in python
